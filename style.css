@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: #00ff44;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: aliceblue
+}
+
+img {
+    border-color: aqua;
+    border-radius: 40px;
+    width: 235px;
+    height: 235px;
+}
